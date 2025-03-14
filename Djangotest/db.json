@@ -1,0 +1,138 @@
+{
+  "people": {
+    "1": {
+      "name": "Ronald Novak",
+      "date": "2024-12-10",
+      "phone": "84548502072",
+      "email": "VgYRm@gmail.com"
+    },
+    "2": {
+      "name": "Rick Novak",
+      "date": "2024-12-10",
+      "phone": "85099194870",
+      "email": "kPsZp@mail.ru"
+    },
+    "3": {
+      "name": "Ronald Williams",
+      "date": "2024-12-10",
+      "phone": "81700351773",
+      "email": "qbztH@gmail.com"
+    },
+    "4": {
+      "name": "John Donahue",
+      "date": "2024-12-10",
+      "phone": "8965234786",
+      "email": "BAjCv@yandex.ru"
+    },
+    "5": {
+      "name": "Susan Johnos",
+      "date": "2024-12-10",
+      "phone": "81572461924",
+      "email": "VJREd@gmail.com"
+    },
+    "6": {
+      "name": "Rick Donahue",
+      "date": "2024-12-10",
+      "phone": "81984280797",
+      "email": "ANXuo@gmail.com"
+    },
+    "7": {
+      "name": "Margaret Johnson",
+      "date": "2024-12-10",
+      "phone": "85630223019",
+      "email": "JrZOt@mail.ru"
+    },
+    "8": {
+      "name": "John Williams",
+      "date": "2024-12-10",
+      "phone": "87724545847",
+      "email": "PDjRw@mail.ru"
+    },
+    "9": {
+      "name": "Andy Williams",
+      "date": "2024-12-10",
+      "phone": "81632137338",
+      "email": "aoAHL@yandex.ru"
+    },
+    "10": {
+      "name": "John Johnson",
+      "date": "2024-12-10",
+      "phone": "83825781054",
+      "email": "mLkwx@gmail.com"
+    }
+  },
+  "avtors": {
+    "1": {
+      "name": "Rick Williams",
+      "date": "2024-12-10",
+      "phone": "88440631980",
+      "email": "XrvTf@yandex.ru"
+    },
+    "2": {
+      "name": "Joe Lum",
+      "date": "2024-12-10",
+      "phone": "80089404666",
+      "email": "ntmBn@mail.ru"
+    },
+    "3": {
+      "name": "Ronald Barr",
+      "date": "2024-12-10",
+      "phone": "85551192535",
+      "email": "MKKBm@yandex.ru"
+    },
+    "4": {
+      "name": "Ronald Barr",
+      "date": "2024-12-10",
+      "phone": "81659310209",
+      "email": "WVTsk@mail.ru"
+    },
+    "5": {
+      "name": "Joe Johnos",
+      "date": "2024-12-10",
+      "phone": "89742684861",
+      "email": "ifTJj@mail.ru"
+    },
+    "6": {
+      "name": "Margaret Johnos",
+      "date": "2024-12-10",
+      "phone": "82465737308",
+      "email": "ZyIaf@mail.ru"
+    },
+    "7": {
+      "name": "Ronald Barr",
+      "date": "2024-12-10",
+      "phone": "89621915721",
+      "email": "OxWgK@gmail.com"
+    },
+    "8": {
+      "name": "Margaret Williams",
+      "date": "2024-12-10",
+      "phone": "85878597262",
+      "email": "FJtZE@gmail.com"
+    },
+    "9": {
+      "name": "John Johnos",
+      "date": "2024-12-10",
+      "phone": "8420241145",
+      "email": "gBYYc@mail.ru"
+    },
+    "10": {
+      "name": "John Johnson",
+      "date": "2024-12-10",
+      "phone": "8204569744",
+      "email": "YIrPt@mail.ru"
+    },
+    "11": {
+      "name": "Margaret Johnos",
+      "date": "2024-12-10",
+      "phone": "8909510838",
+      "email": "JkWmJ@gmail.com"
+    },
+    "12": {
+      "name": "Ronald Barr",
+      "date": "2024-12-10",
+      "phone": "8136243071",
+      "email": "CvHeF@gmail.com"
+    }
+  }
+}
